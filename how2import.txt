@@ -1,0 +1,18 @@
+(Using scratch.mit.edu)
+Step 1, Go to scratch.mit.edu
+Step 2, Go to Create
+Step 3, Go to File
+Step 4, Go to Load from this computer
+Step 5, Open the .sb3 file
+(Using TurboWarp)
+For those who haven't installed TurboWarp:
+Step 1, Go to Microsoft Store
+Step 2, Go to TurboWarp
+Step 3, Install
+Step 4, Open an sb3 file
+Step 5, Look for the TurboWarp app in the popup.
+Step 6, Tick "always open .sb3 files with this app"
+Step 7, Press OK
+Step 8, Open the file
+For those who have already installed TurboWarp:
+Step 1, Open the file
